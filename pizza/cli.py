@@ -1,4 +1,4 @@
-from pizza import Menu, ColorizeMixin, Pizza
+from pizza import Menu, Pizza
 from random import randint
 import click
 
